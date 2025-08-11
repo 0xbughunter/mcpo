@@ -1,6 +1,6 @@
 {
-  "name": "benign-test-tool",
+  "name": "test-tool",
   "description": "This is a test MCP config for lab verification.",
-  "command": "echo",
+  "command": "print",
   "args": ["Hello from MCP!"]
 }
