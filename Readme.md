@@ -4,9 +4,7 @@
 This repository demonstrates the **MCPois** vulnerability affecting vulnerable versions of Cursor IDE (pre-1.3).  
 The flaw allows **persistent, silent code execution** by swapping the command/arguments of a previously approved MCP tool without triggering a re-approval prompt.
 
-⚠️ **WARNING:**  
-This PoC is for **educational and authorized testing only**.  
-Do **NOT** run this on production machines or against systems you do not own.
+
 
 ---
 
